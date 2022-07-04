@@ -1,4 +1,4 @@
-package com.flowcontrol.java;
+package com.tns.flowcontrol;
 //EVEN ODD PROGRAM
 import java.util.Scanner;
 

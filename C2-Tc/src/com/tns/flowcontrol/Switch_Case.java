@@ -1,4 +1,4 @@
-package com.flowcontrol.java;
+package com.tns.flowcontrol;
 
 import java.util.*;
 public class Switch_Case {
@@ -35,10 +35,14 @@ public class Switch_Case {
 		   {
 			   System.out.println("Executed");
 		   }
-		
+		   
 		
 		}
-		  System.out.println("Empty Switch is Also valid ");
+	System.out.println("Empty Switch is Also valid ");
+	}
+}
+		  
+	
 		
 //		Calculator code by using switch
 		

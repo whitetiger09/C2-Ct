@@ -1,4 +1,4 @@
-package com.flowcontrol.java;
+package com.tns.flowcontrol;
 
 public class While_loop {
 
