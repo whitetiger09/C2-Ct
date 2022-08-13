@@ -1,4 +1,4 @@
-package com.tns.exphandlingg;
+package com.tns.exphandling;
 
 
 class TryCatchFinallyExample

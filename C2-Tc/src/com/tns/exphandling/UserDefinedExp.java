@@ -1,4 +1,4 @@
-package com.tns.exphandlingg;
+package com.tns.exphandling;
 
 import java.util.Scanner;
 public class UserDefinedExp {
