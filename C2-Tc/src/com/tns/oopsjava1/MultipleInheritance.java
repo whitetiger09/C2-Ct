@@ -1,4 +1,4 @@
-package com.tns.oopsInJAVA;
+package com.tns.oopsjava1;
 
 interface A
 {
