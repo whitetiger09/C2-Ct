@@ -16,11 +16,11 @@ class MIE implements A,B
 {
 	public void Adisplay()
 	{
-		System.out.println("I am A");
+		System.out.println("I am A.");
 	}
 	public void Bdisplay()
 	{
-		System.out.println("I am B");
+		System.out.println("I am B.");
 	}
 }
 
