@@ -1,4 +1,4 @@
-package com.tns.static2;
+package com.tns.static1;
 
 
 public class StaticOuter {
