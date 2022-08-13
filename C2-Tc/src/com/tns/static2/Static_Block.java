@@ -1,4 +1,4 @@
-package com.tns.static1;
+package com.tns.static2;
 
 
 
