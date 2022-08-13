@@ -1,4 +1,4 @@
-package oopsInJAVA;
+package com.tns.oopsInJAVA;
 
 
 
